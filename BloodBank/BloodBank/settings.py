@@ -82,7 +82,7 @@ DATABASES = {
         'USER' : 'sahithi',
         'PASSWORD' : 'Sadhana17052003',
         'HOST' : 'sahithisql.mysql.database.azure.com',
-        'PORT' : '3306',
+        'PORT' : '3389',
     }
 }
 
