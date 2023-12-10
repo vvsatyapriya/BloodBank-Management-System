@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'BloodBank.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'sahithisql.mysql.database.azure.com,
         'NAME' : 'ddn',
-        'USER' : 'ddn',
-        'PASSWORD' : 'ddn',
+        'USER' : 'sahithi',
+        'PASSWORD' : 'Sadhana17052003',
         'HOST' : '127.0.0.1',
         'PORT' : '3306',
     }
